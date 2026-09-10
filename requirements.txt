@@ -1,0 +1,6 @@
+flask
+flask-cors
+PyPDF2
+spacy
+scikit-learn
+google-genai
